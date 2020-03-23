@@ -17,7 +17,7 @@
     "production": {
         "username": "root",
         "password": "root",
-        "use_env_variable": "DATABASE_URL",
+        "NODE_ENV": "DATABASE_URL",
         "host": "127.0.0.1",
         "dialect": "mysql"
     }
